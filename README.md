@@ -20,7 +20,7 @@ You may find the config in the main file ``config.py``.
 
 ``output_elo_predictions`` - Uses the previously determined ELO rankings to predict the win rate of the scenario matches from the input file.
 
-``detailed_logs` - Provides more detailed console outputs by logging smaller processes, useful for debugging. (Program will run slower)
+``detailed_logs`` - Provides more detailed console outputs by logging smaller processes, useful for debugging. (Program will run slower)
 
 ``wCS`` - The weightings for eFGp (Effective Field Goal Percentage), FTR (Free Throw Rate), TOVp (Turnover Percentage), and OREBp (Offensive Rebound Percentage) respectively in the calculation for the composite score. (Default 'w_eFG': 0.4, 'w_TOV': -0.25, 'w_OREB': 0.2, 'w_FTR': 0.15)
 
