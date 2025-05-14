@@ -27,3 +27,7 @@ You may find the config in the main file ``config.py``.
 ## game_predictions.py
 
 ``game_predictions.py`` is a separate executable python algorithm that graphs out the correlation between the point difference and external factors found on the spreadsheet. You may change the external factors by editing the ``y_var`` within the ``round_data_comparison`` function.
+
+## References
+
+All data used were provided by the Wharton High School Data Science Competition from the NCAA Women's College Basketball. This model was one of the 25 semifinalists in the 2025 Wharton HS Data Science Competition. 
