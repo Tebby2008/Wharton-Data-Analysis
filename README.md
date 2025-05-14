@@ -30,4 +30,4 @@ You may find the config in the main file ``config.py``.
 
 ## References
 
-All data used were provided by the Wharton High School Data Science Competition from the NCAA Women's College Basketball. This model was one of the 25 semifinalists in the 2025 Wharton HS Data Science Competition. 
+All data used were provided by the Wharton High School Data Science Competition from the NCAA Women's Division I Basketball games. This model was one of the 25 semifinalists in the 2025 Wharton HS Data Science Competition. 
