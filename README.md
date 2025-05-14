@@ -4,6 +4,8 @@ The WHSBKT Data Prediction Algorithm is an algorithm designed for the Wharton Hi
 
 ## Usage
 
+To install, download the .zip file or go to the following link: https://github.com/Tebby2008/Wharton-Data-Analysis/blob/fa5ae9fb7cce5f7c28af185f6fa8073f72508ea4/WhartonDataAnalysis.zip
+
 The required inputs should be already present in the main folder.
 
 Output files will be created in the ``/outputs`` folder.
